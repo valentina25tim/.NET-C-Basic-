@@ -1,0 +1,16 @@
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_PlaneGame_1win\RaceCars_1_win\bin\Debug\net5.0\RaceCars_1_win.exe
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_PlaneGame_1win\RaceCars_1_win\bin\Debug\net5.0\RaceCars_1_win.deps.json
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_PlaneGame_1win\RaceCars_1_win\bin\Debug\net5.0\RaceCars_1_win.runtimeconfig.json
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_PlaneGame_1win\RaceCars_1_win\bin\Debug\net5.0\RaceCars_1_win.runtimeconfig.dev.json
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_PlaneGame_1win\RaceCars_1_win\bin\Debug\net5.0\RaceCars_1_win.dll
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_PlaneGame_1win\RaceCars_1_win\bin\Debug\net5.0\RaceCars_1_win.pdb
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_PlaneGame_1win\RaceCars_1_win\obj\Debug\net5.0\RaceCars_1_win.csproj.AssemblyReference.cache
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_PlaneGame_1win\RaceCars_1_win\obj\Debug\net5.0\RaceCars_1_win.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_PlaneGame_1win\RaceCars_1_win\obj\Debug\net5.0\RaceCars_1_win.AssemblyInfoInputs.cache
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_PlaneGame_1win\RaceCars_1_win\obj\Debug\net5.0\RaceCars_1_win.AssemblyInfo.cs
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_PlaneGame_1win\RaceCars_1_win\obj\Debug\net5.0\RaceCars_1_win.csproj.CoreCompileInputs.cache
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_PlaneGame_1win\RaceCars_1_win\obj\Debug\net5.0\RaceCars_1_win.dll
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_PlaneGame_1win\RaceCars_1_win\obj\Debug\net5.0\refint\RaceCars_1_win.dll
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_PlaneGame_1win\RaceCars_1_win\obj\Debug\net5.0\RaceCars_1_win.pdb
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_PlaneGame_1win\RaceCars_1_win\obj\Debug\net5.0\RaceCars_1_win.genruntimeconfig.cache
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_PlaneGame_1win\RaceCars_1_win\obj\Debug\net5.0\ref\RaceCars_1_win.dll
