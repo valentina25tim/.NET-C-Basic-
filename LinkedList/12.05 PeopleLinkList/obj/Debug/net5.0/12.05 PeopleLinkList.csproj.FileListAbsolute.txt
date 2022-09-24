@@ -1,0 +1,32 @@
+E:\C#\C# with Timur\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\bin\Debug\net5.0\12.05 PeopleLinkList.exe
+E:\C#\C# with Timur\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\bin\Debug\net5.0\12.05 PeopleLinkList.deps.json
+E:\C#\C# with Timur\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\bin\Debug\net5.0\12.05 PeopleLinkList.runtimeconfig.json
+E:\C#\C# with Timur\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\bin\Debug\net5.0\12.05 PeopleLinkList.runtimeconfig.dev.json
+E:\C#\C# with Timur\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\bin\Debug\net5.0\12.05 PeopleLinkList.dll
+E:\C#\C# with Timur\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\bin\Debug\net5.0\12.05 PeopleLinkList.pdb
+E:\C#\C# with Timur\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\12.05 PeopleLinkList.csproj.AssemblyReference.cache
+E:\C#\C# with Timur\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\12.05 PeopleLinkList.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# with Timur\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\12.05 PeopleLinkList.AssemblyInfoInputs.cache
+E:\C#\C# with Timur\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\12.05 PeopleLinkList.AssemblyInfo.cs
+E:\C#\C# with Timur\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\12.05 PeopleLinkList.csproj.CoreCompileInputs.cache
+E:\C#\C# with Timur\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\12.05 PeopleLinkList.dll
+E:\C#\C# with Timur\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\refint\12.05 PeopleLinkList.dll
+E:\C#\C# with Timur\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\12.05 PeopleLinkList.pdb
+E:\C#\C# with Timur\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\12.05 PeopleLinkList.genruntimeconfig.cache
+E:\C#\C# with Timur\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\ref\12.05 PeopleLinkList.dll
+E:\C#\C# with Timur\HM 8\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\bin\Debug\net5.0\12.05 PeopleLinkList.exe
+E:\C#\C# with Timur\HM 8\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\bin\Debug\net5.0\12.05 PeopleLinkList.deps.json
+E:\C#\C# with Timur\HM 8\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\bin\Debug\net5.0\12.05 PeopleLinkList.runtimeconfig.json
+E:\C#\C# with Timur\HM 8\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\bin\Debug\net5.0\12.05 PeopleLinkList.runtimeconfig.dev.json
+E:\C#\C# with Timur\HM 8\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\bin\Debug\net5.0\12.05 PeopleLinkList.dll
+E:\C#\C# with Timur\HM 8\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\bin\Debug\net5.0\12.05 PeopleLinkList.pdb
+E:\C#\C# with Timur\HM 8\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\12.05 PeopleLinkList.csproj.AssemblyReference.cache
+E:\C#\C# with Timur\HM 8\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\12.05 PeopleLinkList.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# with Timur\HM 8\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\12.05 PeopleLinkList.AssemblyInfoInputs.cache
+E:\C#\C# with Timur\HM 8\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\12.05 PeopleLinkList.AssemblyInfo.cs
+E:\C#\C# with Timur\HM 8\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\12.05 PeopleLinkList.csproj.CoreCompileInputs.cache
+E:\C#\C# with Timur\HM 8\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\12.05 PeopleLinkList.dll
+E:\C#\C# with Timur\HM 8\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\refint\12.05 PeopleLinkList.dll
+E:\C#\C# with Timur\HM 8\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\12.05 PeopleLinkList.pdb
+E:\C#\C# with Timur\HM 8\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\12.05 PeopleLinkList.genruntimeconfig.cache
+E:\C#\C# with Timur\HM 8\12.05 PeopleLinkList\12.05 PeopleLinkList\12.05 PeopleLinkList\obj\Debug\net5.0\ref\12.05 PeopleLinkList.dll
