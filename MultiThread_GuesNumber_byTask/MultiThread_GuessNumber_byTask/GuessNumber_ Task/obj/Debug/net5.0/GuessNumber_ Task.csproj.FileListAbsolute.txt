@@ -1,0 +1,16 @@
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_GuesNumber_byTask\MultiThread_GuessNumber_byTask\GuessNumber_ Task\bin\Debug\net5.0\GuessNumber_ Task.exe
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_GuesNumber_byTask\MultiThread_GuessNumber_byTask\GuessNumber_ Task\bin\Debug\net5.0\GuessNumber_ Task.deps.json
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_GuesNumber_byTask\MultiThread_GuessNumber_byTask\GuessNumber_ Task\bin\Debug\net5.0\GuessNumber_ Task.runtimeconfig.json
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_GuesNumber_byTask\MultiThread_GuessNumber_byTask\GuessNumber_ Task\bin\Debug\net5.0\GuessNumber_ Task.runtimeconfig.dev.json
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_GuesNumber_byTask\MultiThread_GuessNumber_byTask\GuessNumber_ Task\bin\Debug\net5.0\GuessNumber_ Task.dll
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_GuesNumber_byTask\MultiThread_GuessNumber_byTask\GuessNumber_ Task\bin\Debug\net5.0\GuessNumber_ Task.pdb
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_GuesNumber_byTask\MultiThread_GuessNumber_byTask\GuessNumber_ Task\obj\Debug\net5.0\GuessNumber_ Task.csproj.AssemblyReference.cache
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_GuesNumber_byTask\MultiThread_GuessNumber_byTask\GuessNumber_ Task\obj\Debug\net5.0\GuessNumber_ Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_GuesNumber_byTask\MultiThread_GuessNumber_byTask\GuessNumber_ Task\obj\Debug\net5.0\GuessNumber_ Task.AssemblyInfoInputs.cache
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_GuesNumber_byTask\MultiThread_GuessNumber_byTask\GuessNumber_ Task\obj\Debug\net5.0\GuessNumber_ Task.AssemblyInfo.cs
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_GuesNumber_byTask\MultiThread_GuessNumber_byTask\GuessNumber_ Task\obj\Debug\net5.0\GuessNumber_ Task.csproj.CoreCompileInputs.cache
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_GuesNumber_byTask\MultiThread_GuessNumber_byTask\GuessNumber_ Task\obj\Debug\net5.0\GuessNumber_ Task.dll
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_GuesNumber_byTask\MultiThread_GuessNumber_byTask\GuessNumber_ Task\obj\Debug\net5.0\refint\GuessNumber_ Task.dll
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_GuesNumber_byTask\MultiThread_GuessNumber_byTask\GuessNumber_ Task\obj\Debug\net5.0\GuessNumber_ Task.pdb
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_GuesNumber_byTask\MultiThread_GuessNumber_byTask\GuessNumber_ Task\obj\Debug\net5.0\GuessNumber_ Task.genruntimeconfig.cache
+C:\C#project\.NET C# Basic\.NET-C-Basic-\MultiThread_GuesNumber_byTask\MultiThread_GuessNumber_byTask\GuessNumber_ Task\obj\Debug\net5.0\ref\GuessNumber_ Task.dll

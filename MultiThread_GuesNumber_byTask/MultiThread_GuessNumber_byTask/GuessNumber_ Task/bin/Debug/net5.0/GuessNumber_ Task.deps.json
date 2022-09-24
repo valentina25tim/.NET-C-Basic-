@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GuessNumber_ Task/1.0.0": {
+        "runtime": {
+          "GuessNumber_ Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuessNumber_ Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
